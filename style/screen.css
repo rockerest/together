@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    padding: 2.5em;
+
+    background-color: #DEDEDE;
+}
+
+textarea, input{
+    width: 100%;
+}
+
+textarea{
+    height: 300px;
+}
